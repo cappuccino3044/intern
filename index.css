@@ -1,0 +1,43 @@
+.contents{
+  background-color: beige;
+}
+.navbar-brand p{
+  color:gray;
+  font-weight: bold;
+}
+.content{
+  /*background-color:rgb(0,152,173)		;*/
+  background-color: beige;
+  margin:30px;
+  font-family : "HiraKakuProN-W6";
+}
+.content h1, p1{
+  /*font-style:'M+PLUS+1p';*/
+  color:#4689FF;
+}
+.content p2{
+  color:#8B4513;
+}
+.login{
+  background-color:beige;
+}
+
+.login p{
+  text-align: center;
+}
+.form-group{
+  font-family : "HiraKakuProN-W6";
+}
+
+.contents{
+  margin-left: 30px;
+  margin-right: auto;
+  }
+.body{
+  background-color: beige;
+}
+.card-body h5{
+  font-size: 28px;
+  font-weight: bold;
+  color: #4689FF;
+}
